@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CaesarCipher", "CaesarCipher.pyproj", "{4BB7AE98-98FF-4C13-8FB2-991BB65ABA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB7AE98-98FF-4C13-8FB2-991BB65ABA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB7AE98-98FF-4C13-8FB2-991BB65ABA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987ED416-7520-45E8-B2B1-119AAA8EE3CD}
+	EndGlobalSection
+EndGlobal

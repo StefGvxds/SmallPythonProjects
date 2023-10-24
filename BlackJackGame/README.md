@@ -1,4 +1,4 @@
-Game Information
+Description
 -----
 - In blackjack, the card 'A' can be counted as either 1 or 11, providing flexibility to the player.
 - The cards 'J' (Jack), 'Q' (Queen), and 'K' (King) all have a value of 10.

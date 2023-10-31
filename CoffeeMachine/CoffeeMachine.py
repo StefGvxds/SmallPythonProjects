@@ -79,13 +79,13 @@ while True:
 
     # User wants Latte
     elif select == "latte":
-        # Check for water, Latte needs 50ml of Water
+        # Check for water, Latte needs 200ml of Water
         if MENU[select]["ingredients"]["water"] < 200:
             print("Sorry there is not enough water")
-        # Check for coffee, Latte needs 18g of Milk
+        # Check for coffee, Latte needs 150g of Milk
         elif MENU[select]["ingredients"]["milk"] < 150:
             print("Sorry there is not enough milk")
-        # Check for coffee, Latte needs 18g of coffee
+        # Check for coffee, Latte needs 24g of coffee
         elif MENU[select]["ingredients"]["coffee"] < 24:
             print("Sorry there is not enough coffee")
         else:
@@ -125,13 +125,13 @@ while True:
                 money = 0
     # User wants cappuccino
     elif select == "cappuccino":
-        # Check for water, cappuccino needs 50ml of Water
+        # Check for water, cappuccino needs 250ml of Water
         if MENU[select]["ingredients"]["water"] < 250:
             print("Sorry there is not enough water")
-        # Check for coffee, cappuccino needs 18g of Milk
+        # Check for coffee, cappuccino needs 100g of Milk
         elif MENU[select]["ingredients"]["milk"] < 100:
             print("Sorry there is not enough milk")
-        # Check for coffee, cappuccino needs 18g of coffee
+        # Check for coffee, cappuccino needs 24g of coffee
         elif MENU[select]["ingredients"]["coffee"] < 24:
             print("Sorry there is not enough coffee")
         else:
